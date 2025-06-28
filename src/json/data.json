@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Sapiens: A Brief History of Humankind",
+    "description": "An exploration of human evolution and societal development.",
+    "price": "120 DH",
+    "image": "img1",
+    "author": "Yuval Noah Harari",
+    "type": "historical"
+  },
+  {
+    "id": 2,
+    "name": "Guns, Germs, and Steel",
+    "description": "A historical account of how civilizations evolved differently.",
+    "price": "95 DH",
+    "image": "img2",
+    "author": "Jared Diamond",
+    "type": "historical"
+  },
+  {
+    "id": 3,
+    "name": "The Silk Roads",
+    "description": "A new history of the world seen from the East.",
+    "price": "110 DH",
+    "image": "img3",
+    "author": "Peter Frankopan",
+    "type": "historical"
+  },
+  {
+    "id": 4,
+    "name": "A People's History of the United States",
+    "description": "Tells U.S. history from the perspective of the marginalized.",
+    "price": "105 DH",
+    "image": "img4",
+    "author": "Howard Zinn",
+    "type": "historical"
+  },
+  {
+    "id": 5,
+    "name": "The Prince",
+    "description": "A political treatise on power, strategy, and leadership.",
+    "price": "85 DH",
+    "image": "img5",
+    "author": "Niccolò Machiavelli",
+    "type": "political"
+  },
+  {
+    "id": 6,
+    "name": "The Art of War",
+    "description": "An ancient Chinese military strategy guide.",
+    "price": "70 DH",
+    "image": "img6",
+    "author": "Sun Tzu",
+    "type": "political"
+  },
+  {
+    "id": 7,
+    "name": "The Communist Manifesto",
+    "description": "A foundational political theory on class struggle.",
+    "price": "65 DH",
+    "image": "img7",
+    "author": "Karl Marx & Friedrich Engels",
+    "type": "political"
+  },
+  {
+    "id": 8,
+    "name": "The Republic",
+    "description": "A philosophical discussion on justice and governance.",
+    "price": "90 DH",
+    "image": "img8",
+    "author": "Plato",
+    "type": "political"
+  },
+  {
+    "id": 9,
+    "name": "The Bible",
+    "description": "Sacred scriptures of Christianity.",
+    "price": "130 DH",
+    "image": "img9",
+    "author": "Multiple Authors",
+    "type": "religious"
+  },
+  {
+    "id": 10,
+    "name": "The Quran",
+    "description": "The holy book of Islam.",
+    "price": "125 DH",
+    "image": "img10",
+    "author": "Revealed to Prophet Muhammad",
+    "type": "religious"
+  },
+  {
+    "id": 11,
+    "name": "The Bhagavad Gita",
+    "description": "A spiritual guide and a sacred Hindu scripture.",
+    "price": "115 DH",
+    "image": "img11",
+    "author": "Vyasa",
+    "type": "religious"
+  },
+  {
+    "id": 12,
+    "name": "The Tao Te Ching",
+    "description": "A Chinese philosophical text on harmony and nature.",
+    "price": "80 DH",
+    "image": "img12",
+    "author": "Laozi",
+    "type": "religious"
+  },
+  {
+    "id": 13,
+    "name": "Thinking, Fast and Slow",
+    "description": "Explores two systems of thinking and human behavior.",
+    "price": "110 DH",
+    "image": "img13",
+    "author": "Daniel Kahneman",
+    "type": "psychology"
+  },
+  {
+    "id": 14,
+    "name": "Man's Search for Meaning",
+    "description": "A psychologist's reflection on life in Nazi death camps.",
+    "price": "100 DH",
+    "image": "img14",
+    "author": "Viktor E. Frankl",
+    "type": "psychology"
+  },
+  {
+    "id": 15,
+    "name": "The Power of Now",
+    "description": "A spiritual guide to living in the present moment.",
+    "price": "95 DH",
+    "image": "img15",
+    "author": "Eckhart Tolle",
+    "type": "psychology"
+  },
+  {
+    "id": 16,
+    "name": "Emotional Intelligence",
+    "description": "Explains why EQ matters more than IQ.",
+    "price": "105 DH",
+    "image": "img16",
+    "author": "Daniel Goleman",
+    "type": "psychology"
+  }
+]
