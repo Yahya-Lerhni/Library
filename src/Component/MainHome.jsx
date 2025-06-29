@@ -6,12 +6,10 @@ import { HiOutlineDocumentDownload } from "react-icons/hi";
 import { IoSettingsOutline } from "react-icons/io5";
 import { MdOutlineLiveHelp } from "react-icons/md";
 import { IoIosLogOut } from "react-icons/io";
-import images from "../constant/images";
 import MyData from "../Constant/Data";
 import { useNavigate } from "react-router-dom";
-import { Images } from "../Constant";
-MyData;
-images;
+import Images from "../Constant/images"; // ✅ تعديل هنا
+
 const MainHome = () => {
   const Book = MyData;
   const Navigate = useNavigate();
