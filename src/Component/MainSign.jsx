@@ -1,5 +1,5 @@
 import React from "react";
-import Images from "../constant/images";
+import Images from "../Constant/images";
 const MainSign = () => {
   return (
     <>
